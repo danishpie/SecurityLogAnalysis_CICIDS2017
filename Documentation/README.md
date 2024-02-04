@@ -35,11 +35,8 @@ The project utilizes the CICIDS2017 dataset, which includes a wide range of simu
 2. Explore the dataset with the EDA notebook.
 3. Use the Final Analysis notebook for deeper insights and visualizations.
 
-## License
-[MIT License](LICENSE)
-
 ## Contributors
-- [Your Name]
+- Daine Bigham
 
 ## Acknowledgments
 Thanks to the Canadian Institute for Cybersecurity for providing the CICIDS2017 dataset.
